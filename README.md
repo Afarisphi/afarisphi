@@ -46,13 +46,4 @@ Continuously expanding my skills:
 - LinkedIn: https://www.linkedin.com/in/agung-fajar-risnandar-930044254/
 - Email: agung.afr10@gmail.com
 
-## Statistic
-
-<p align="left">
-<a href="https://github.com/Afarisphi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 Feel free to reach out for collaboration or discussions on web development and cloud computing!
