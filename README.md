@@ -47,5 +47,3 @@ Continuously expanding my skills:
 - Email: agung.afr10@gmail.com
 
 Feel free to reach out for collaboration or discussions on web development and cloud computing!
-
-*(Feel free to customize and adjust the content further as needed.)*
