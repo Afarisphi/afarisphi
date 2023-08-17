@@ -1,36 +1,51 @@
-**Full-Stack Web Developer**
- 
-**Introduction**
-Hello there! I'm Agung Fajar Risnandar, a passionate Front-End Web Developer with experience since 2020. I have a strong command over modern web development tools and frameworks including Bootstrap, Tailwind CSS, and React. I'm also expanding my skills into the realm of Back-End Development using JavaScript and delving into the exciting world of Cloud Computing through the Bangkit 2023 program.
-**Technologies and Tools**
-Here are some of the technologies and tools I work with:
-**Front-End Development**
-•	Bootstrap: Proficient in creating responsive and visually appealing layouts using Bootstrap's powerful grid system and components.
-•	Tailwind CSS: Skilled in utilizing utility-first CSS frameworks like Tailwind to streamline UI development and achieve consistent design patterns.
-•	React: Experienced in building dynamic and interactive user interfaces using React, incorporating components, states, and hooks.
-**Back-End Development**
-•	JavaScript: Currently learning Back-End Development with JavaScript, exploring Node.js and Express.js to create server-side applications and APIs.
-**Cloud Computing**
-•	Bangkit 2023: Actively participating in the Bangkit 2023 program to gain expertise in Cloud Computing. Excited to explore cloud services and deployment strategies to enhance application scalability and performance.
-**Projects**
-Here are some of the projects I've worked on:
-1.	**E-Commerce Website** (React, Bootstrap)
-•	Developed a responsive e-commerce platform, showcasing products and enabling seamless user transactions.
-•	Implemented user authentication and cart functionality for an enhanced shopping experience.
-2.	**Portfolio Website** (React, Tailwind CSS)
-•	Designed a personal portfolio website to showcase my skills, projects, and achievements.
-•	Utilized Tailwind CSS for efficient styling and responsive design.
-3.	**Task Management App** (React, Node.js, Express.js)
-•	Collaborated with a team to create a task management application.
-•	Developed front-end and back-end components, enabling users to create, update, and track tasks.
-**Learning Journey**
-I'm continuously striving to expand my skill set and knowledge:
-•	**Back-End Development:** Currently focused on mastering Back-End technologies like Node.js and Express.js to create robust server-side applications.
-•	**Cloud Computing:** Actively participating in the Bangkit 2023 program to gain expertise in cloud services and deployment strategies.
-**Contact**
-You can connect with me through the following:
-•	GitHub: _github.com/Afarisphi_
-•	LinkedIn: _https://www.linkedin.com/in/agung-fajar-risnandar-930044254/_
-•	Email: _agung.afr10@gmail.com_
-Feel free to reach out if you'd like to collaborate, discuss projects, or simply chat about web development and cloud computing!
+# Front-End and Back-End Web Developer
 
+## Introduction
+
+Hello! I'm [Your Name], a Front-End Web Developer with experience since 2020. I specialize in creating visually appealing and user-friendly web interfaces using Bootstrap, Tailwind CSS, and React. Recently, I've been diving into Back-End Development using JavaScript and exploring the world of Cloud Computing through the Bangkit 2023 program.
+
+## Technologies and Tools
+
+### Front-End Development
+
+- **Bootstrap:** Proficient in creating responsive layouts and components for a consistent and modern look.
+
+- **Tailwind CSS:** Skilled in using utility classes to rapidly build stylish and functional user interfaces.
+
+- **React:** Experienced in building dynamic and interactive web applications using React components and state management.
+
+### Back-End Development
+
+- **JavaScript:** Currently learning Back-End Development with JavaScript, focusing on Node.js and Express.js for server-side scripting.
+
+### Cloud Computing
+
+- **Bangkit 2023:** Actively participating in the Bangkit 2023 program to gain expertise in Cloud Computing. Excited to leverage cloud services for scalable and efficient applications.
+
+## Projects
+
+1. **E-Commerce Website**
+   - Built a responsive e-commerce platform using React and Bootstrap, enabling seamless shopping experiences for users.
+   - Implemented user authentication and cart functionality to enhance user engagement.
+
+2. **Portfolio Website**
+   - Developed a personal portfolio website using React and Tailwind CSS to showcase skills, projects, and achievements.
+   - Utilized animations and responsive design to create an engaging user experience.
+
+## Learning Journey
+
+Continuously expanding my skills:
+
+- **Back-End Development:** Mastering Node.js and Express.js to build robust server-side applications and RESTful APIs.
+
+- **Cloud Computing:** Actively learning about cloud services and deployment strategies through the Bangkit 2023 program.
+
+## Let's Connect
+
+- GitHub: https://github.com/Afarisphi
+- LinkedIn: https://www.linkedin.com/in/agung-fajar-risnandar-930044254/
+- Email: agung.afr10@gmail.com
+
+Feel free to reach out for collaboration or discussions on web development and cloud computing!
+
+*(Feel free to customize and adjust the content further as needed.)*
