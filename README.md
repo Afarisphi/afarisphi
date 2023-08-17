@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I'm [Your Name], a Front-End Web Developer with experience since 2020. I specialize in creating visually appealing and user-friendly web interfaces using Bootstrap, Tailwind CSS, and React. Recently, I've been diving into Back-End Development using JavaScript and exploring the world of Cloud Computing through the Bangkit 2023 program.
+Hello! I'm Agung Fajar Risnandar, a Front-End Web Developer with experience since 2020. I specialize in creating visually appealing and user-friendly web interfaces using Bootstrap, Tailwind CSS, and React. Recently, I've been diving into Back-End Development using JavaScript and exploring the world of Cloud Computing through the Bangkit 2023 program.
 
 ## Technologies and Tools
 
